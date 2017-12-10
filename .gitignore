@@ -1,0 +1,15 @@
+# Unity3D
+obj
+Library
+Temp
+
+# Visual Studio
+.vs
+*.csproj
+*.sln
+*.userprefs
+
+# OSX
+.DS_Store
+
+AssetBundles
